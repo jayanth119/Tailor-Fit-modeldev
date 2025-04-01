@@ -70,3 +70,5 @@ except Exception as e:
     print("Error occurred:", e)
 finally:
     driver.quit()
+
+

@@ -8,7 +8,7 @@ import math
 
 '''Loading the 3D model'''
 # Load the 3D human body model (.obj file)
-mesh = trimesh.load_mesh(r"C:\Users\Sai\Desktop\My\dream\projects\Tailor-Fit-modeldev\outputs\result_poojitha_256.obj")
+mesh = trimesh.load_mesh(r"C:\Users\Sai\Desktop\My\dream\projects\Tailor-Fit-modeldev\outputs\result_poojitha_1_256.obj")
 
 # Convert trimesh to Open3D format for further processing
 o3d_mesh = o3d.geometry.TriangleMesh()
@@ -192,9 +192,9 @@ for i, (key, height) in enumerate(list(heights.items())[:8]):
         for simplex in hull.simplices:
             axes[i].plot(points_2d[simplex, 0], points_2d[simplex, 1], 'r-')
 
-plt.tight_layout()
-plt.savefig("body_measurements.png")
-plt.show()
+# plt.tight_layout()
+# plt.savefig("body_measurements.png")
+# plt.show()
 
 # Visualize the 3D model with measurement points
 visualize_with_points(o3d_mesh, measurement_points_list, measurement_labels)

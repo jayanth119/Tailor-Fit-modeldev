@@ -1,0 +1,57 @@
+{
+  "Surya": {
+    "Height": "5'11.5",
+    "Neck": {"Circumference": "17.5", "Width": "6.2", "Depth": "4.7"},
+    "Shoulder": {"Circumference": "39.9", "Width": "16.2", "Depth": "8.5"},
+    "Chest": {"Circumference": "43.7", "Width": "17.4", "Depth": "10.0"},
+    "Waist": {"Circumference": "41.9", "Width": "14.4", "Depth": "12.0"},
+    "Hip": {"Circumference": "35.4", "Width": "12.2", "Depth": "11.1"},
+    "Thigh": {"Circumference": "35.6", "Width": "11.5", "Depth": "12.4"},
+    "Knee": {"Circumference": "36.1", "Width": "10.7", "Depth": "13.4"},
+    "Ankle": {"Circumference": "38.9", "Width": "12.0", "Depth": "14.3"}
+  },
+  "Akshitha": {
+    "Height": "5'11.3",
+    "Neck": {"Circumference": "18.2", "Width": "6.6", "Depth": "5.3"},
+    "Shoulder": {"Circumference": "38.4", "Width": "15.3", "Depth": "8.7"},
+    "Chest": {"Circumference": "46.9", "Width": "17.8", "Depth": "11.5"},
+    "Waist": {"Circumference": "51.9", "Width": "17.7", "Depth": "15.6"},
+    "Hip": {"Circumference": "43.6", "Width": "15.2", "Depth": "12.7"},
+    "Thigh": {"Circumference": "48.4", "Width": "17.7", "Depth": "14.2"},
+    "Knee": {"Circumference": "31.6", "Width": "8.7", "Depth": "12.2"},
+    "Ankle": {"Circumference": "37.5", "Width": "8.2", "Depth": "15.5"}
+  },
+  "Anirudh": {
+    "Height": "5'4.5",
+    "Neck": {"Circumference": "20.7", "Width": "2.3", "Depth": "10.0"},
+    "Shoulder": {"Circumference": "48.2", "Width": "6.2", "Depth": "20.0"},
+    "Chest": {"Circumference": "47.1", "Width": "10.2", "Depth": "19.2"},
+    "Waist": {"Circumference": "58.8", "Width": "15.0", "Depth": "22.6"},
+    "Hip": {"Circumference": "49.5", "Width": "15.0", "Depth": "16.9"},
+    "Thigh": {"Circumference": "50.6", "Width": "17.8", "Depth": "15.2"},
+    "Knee": {"Circumference": "38.2", "Width": "15.7", "Depth": "7.0"},
+    "Ankle": {"Circumference": "35.2", "Width": "14.5", "Depth": "6.9"}
+  },
+  "Jayanth": {
+    "Height": "5'4.4",
+    "Neck": {"Circumference": "22.5", "Width": "8.3", "Depth": "6.3"},
+    "Shoulder": {"Circumference": "46.2", "Width": "19.2", "Depth": "8.6"},
+    "Chest": {"Circumference": "54.0", "Width": "22.6", "Depth": "10.9"},
+    "Waist": {"Circumference": "55.4", "Width": "22.7", "Depth": "11.5"},
+    "Hip": {"Circumference": "40.0", "Width": "15.1", "Depth": "10.1"},
+    "Thigh": {"Circumference": "38.5", "Width": "15.0", "Depth": "10.1"},
+    "Knee": {"Circumference": "36.0", "Width": "12.7", "Depth": "11.1"},
+    "Ankle": {"Circumference": "48.0", "Width": "17.0", "Depth": "14.0"}
+  },
+  "Poojitha": {
+    "Height": "5'1.5" ,
+    "Neck": {"Circumference": "16.9", "Width": "6.1", "Depth": "4.4"},
+    "Shoulder": {"Circumference": "40.9", "Width": "13.7", "Depth": "12.7"},
+    "Chest": {"Circumference": "51.0", "Width": "15.7", "Depth": "15.3"},
+    "Waist": {"Circumference": "49.8", "Width": "15.0", "Depth": "16.5"},
+    "Hip": {"Circumference": "54.6", "Width": "16.3", "Depth": "19.0"},
+    "Thigh": {"Circumference": "46.1", "Width": "13.9", "Depth": "15.8"},
+    "Knee": {"Circumference": "45.6", "Width": "15.2", "Depth": "14.0"},
+    "Ankle": {"Circumference": "35.1", "Width": "12.7", "Depth": "10.2"}
+  }
+}
